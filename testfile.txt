@@ -1,1 +1,3 @@
 This is a sample test file to demonstrate Git Commands
+Next line added.
+Beauty is in the eye of the beholder.
